@@ -1,5 +1,5 @@
 # Hello-World
-#Inhai!!#
+Inhai!!
 
 Nas tentativas de ingressar na programação!!!
 
