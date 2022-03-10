@@ -1,7 +1,7 @@
 # Hello-World
 Inhai!!
 
-Nas tentativas de ingressar na programação!!!
+Nas tentativas !!!
 
 da um Help ai!!
 
